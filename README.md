@@ -36,4 +36,4 @@ This project provides an exploratory data analysis (EDA) on tennis match data co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SofaScore-Tennis-Analysis.git
+   git clone https://github.com/shahabnajmosadatypy/SofaScore-Tennis-Analysis.git
