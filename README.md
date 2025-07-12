@@ -1,4 +1,4 @@
-# 🎾 SofaScore Tennis Analysis | تحلیل تنیس سوفااسکور
+# 🎾 SofaScore Tennis Analysis | تحلیل تنیس SofaScore
 
 📊 Data analysis and visualization of tennis matches from SofaScore  
 📈 تحلیل و بصری‌سازی داده‌های مسابقات تنیس از سایت SofaScore
