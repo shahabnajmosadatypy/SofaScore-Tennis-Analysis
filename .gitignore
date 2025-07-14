@@ -211,3 +211,7 @@ __marimo__/
 
 # BUT keep the folder itself
 !data/.gitkeep
+
+# Allow ERD folder and tennis schema pdf file
+!/data/erd/
+!/data/erd/tennis schema.pdf
