@@ -215,3 +215,6 @@ __marimo__/
 # Allow ERD folder and tennis schema pdf file
 !/data/erd/
 !/data/erd/tennis schema.pdf
+.zip
+.parquet
+data/
